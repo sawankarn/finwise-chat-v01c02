@@ -1,4 +1,4 @@
-# 📗 Volume 1 · Chapter 2: Talking to Intelligence: Prompts & Models
+﻿# 📗 Volume 1 · Chapter 2: Talking to Intelligence: Prompts & Models
 
 # FinWise Chat
 
@@ -231,4 +231,19 @@ If you don't want to use Gemini or don't have internet access, you can run the a
 
 ---
 
-_Previous: [Chapter 1 — The AI Engineer's New World](../../chapter1/finwise-chat-v01c01/README.md)_
+## Next Chapter
+
+Continue your journey with the next project in the series:
+
+| | Details |
+|---|---|
+| **Chapter**    | Chapter 3: Making Sense of Intelligence - Output and Evaluation |
+| **GitHub**     | [https://github.com/sawankarn/finwise-chat-v01c03](https://github.com/sawankarn/finwise-chat-v01c03) |
+| **Repository** | finwise-chat-v01c03 |
+
+Clone and get started:
+
+    git clone https://github.com/sawankarn/finwise-chat-v01c03.git
+    cd finwise-chat-v01c03
+
+> Keep building - each chapter unlocks new AI superpowers for your FinWise app!
